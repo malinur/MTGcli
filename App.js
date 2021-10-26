@@ -72,7 +72,7 @@ const App: () => Node = () => {
           }}>
           <Section title="Step One">
             Edit <Text style={styles.highlight}>App.js</Text> to change this
-            sdddddd
+            hello worldd
           </Section>
           <Section title="See Your Changes">
             <ReloadInstructions />
